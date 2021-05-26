@@ -9,7 +9,7 @@ _Sign up_
 
 This project is for educational porpuses only. Thank you for your cooperation!
 
-Site published at __REIKIA LINKO__
+Site published at https://linanavardauskiene.github.io/4-sign-up/
 
 Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
