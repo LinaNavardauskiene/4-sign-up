@@ -13,8 +13,30 @@ main {
     float: left;
     background-color: aquamarine;
 }
+
+.bottom-link {
+    
+}
+
+.bottom-link > a {
+    
+}
+
+.bottom-link > span {
+    
+}
+
 .right-column {
     width: 60%;
     float: left;
     background-color: rgb(48, 19, 175);
 }
+
+.close {
+
+}
+
+.form {
+
+}
+
