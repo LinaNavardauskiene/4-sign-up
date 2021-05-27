@@ -1,15 +1,42 @@
-body{
+body {
     background-color: aqua;
 }
-main{
+main {
     display: inline-block;
     width: 800px;
     margin-top: 100px;
     margin-left: calc((100% - 800px) / 2);
 
 }
-div{
-    width: 50%;
+.left-column {
+    width: 40%;
     float: left;
     background-color: aquamarine;
 }
+
+.bottom-link {
+    
+}
+
+.bottom-link > a {
+    
+}
+
+.bottom-link > span {
+    
+}
+
+.right-column {
+    width: 60%;
+    float: left;
+    background-color: rgb(48, 19, 175);
+}
+
+.close {
+
+}
+
+.form {
+
+}
+
