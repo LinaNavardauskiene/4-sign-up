@@ -27,8 +27,11 @@ main {
 }
 
 .right-column {
+    box-sizing: border-box;
     width: 60%;
     float: left;
+    padding: 25px;
+    border: 15px solid black;
     background-color: rgb(48, 19, 175);
 }
 
