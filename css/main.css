@@ -14,26 +14,35 @@ body {
 main {
     display: inline-block;
     width: 800px;
-    margin-top: 100px;
+    margin-top: 60px;
     margin-left: calc((100% - 800px) / 2);
 }
 .left-column {
     width: 40%;
     float: left;
-    background-color: aquamarine;
-   
+    padding: 40px;
+    background-color: #0354AD;
+    color: white;
+    background-image: url(../img/Kalnas.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 }
 
 .bottom-link {
     
+     
 }
 
 .bottom-link > a {
-    
+    color: white;
 }
 
 .bottom-link > span {
     
+}
+.main-title {
+    font-size: 60px;
 }
 
 .right-column {
