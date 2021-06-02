@@ -28,7 +28,7 @@
     border: 0;
     border-bottom: 1px solid silver;
     line-height: 40px;
-    
+        
 }
 .form-row > ::placeholder {
     color: silver;
