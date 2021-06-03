@@ -41,6 +41,10 @@ transform: translate(-50%, -50%);
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
+   position: absolute;
+   top: 30px;
+   bottom: 30px;
+   left: 0;
 }
 
 .bottom-link {
@@ -61,7 +65,7 @@ transform: translate(-50%, -50%);
 
 .right-column {
     width: 60%;
-    float: left;
+    float: right;
     padding: 60px;
     background-color: white;
     position: relative;
