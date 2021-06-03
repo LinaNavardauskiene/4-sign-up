@@ -48,16 +48,21 @@ transform: translate(-50%, -50%);
 }
 
 .bottom-link {
-    
+    position: absolute;
+    right: 50px;
+    left: 50px;
+    bottom: 10px;
      
 }
 
 .bottom-link > a {
     color: white;
+
 }
 
 .bottom-link > span {
-    
+        
+         
 }
 .main-title {
     font-size: 60px;
